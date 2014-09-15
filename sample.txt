@@ -1,2 +1,2 @@
 サルでもわかるGITコマンド
-ブランチissue1からのcommit
+issue2issue2
